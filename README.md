@@ -4,7 +4,7 @@
 I have a soft spot for cats, cameras, a few games, and retro-design.
 
 ## Social Media Links
-- [🔺 Reddit u/Woalis](https://www.reddit.com/user/Woalis)
+- [🔺 Reddit](https://www.reddit.com/user/Woalis)
 - [🐔 Twitter](https://twitter.com/Woalis)
 - [🌎 PlanetMinecraft](https://www.planetminecraft.com/member/woalis/)
 - 🙃 More to come...
