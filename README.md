@@ -13,6 +13,10 @@ I have a soft spot for cats, cameras, a few games, and retro-design.
 - [Unsplash - Vintage 80s items wallpaper](https://unsplash.com/photos/p0j-mE6mGo4)
 
 <!--
+https://github.com/Ileriayo/markdown-badges#markdown-badges
+
+[![Twitter](https://img.shields.io/badge/Woalis-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Woalis)
+
 ### Hi there 👋
 
 **Woalis/Woalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
