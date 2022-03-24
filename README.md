@@ -1,6 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hai, I'm Woalis 👋</h1>
+<p align="center">He/Him/His</p>
+
+I have a soft spot for cats, cameras, a few games, and retro-design.
+
+## Social Media Links
+- [🔺 Reddit u/Woalis](https://www.reddit.com/user/Woalis)
+- [🐔 Twitter](https://twitter.com/Woalis)
+- [🌎 PlanetMinecraft](https://www.planetminecraft.com/member/woalis/)
+- 🙃 More to come...
+
+## Cool Stuff
+- [Unsplash - Vintage 80s items wallpaper](https://unsplash.com/photos/p0j-mE6mGo4)
 
 <!--
+### Hi there 👋
+
 **Woalis/Woalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
