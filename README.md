@@ -1,5 +1,5 @@
-<h1 align="center">Hai, I'm Woalis 👋</h1>
-<p align="center">He/Him/His</p>
+<h1 align="left">Hai, I'm Woalis 👋</h1>
+<p align="left">He/Him/His</p>
 
 I have a soft spot for cats, cameras, a few games, and retro-design.
 
