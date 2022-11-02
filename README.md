@@ -3,11 +3,10 @@
 
 I have a soft spot for cats, cameras, a few games, and retro-design.
 
-## Social Media Links
-- [🔺 Reddit](https://www.reddit.com/user/Woalis)
+## 🔗 Links
+- [🌲 Linktree](https://woalis.github.io/)
 - [🐔 Twitter](https://twitter.com/Woalis)
-- [🌎 PlanetMinecraft](https://www.planetminecraft.com/member/woalis/)
-- 🙃 More to come...
+- [🔺 Reddit](https://www.reddit.com/user/Woalis)
 
 ## Cool Stuff
 - [Unsplash - Vintage 80s items wallpaper](https://unsplash.com/photos/p0j-mE6mGo4)
