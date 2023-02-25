@@ -6,7 +6,7 @@ I have a soft spot for cats, cameras, a few games, and retro-design.
 ## 🔗 Links
 - [🌲 Linktree](https://woalis.github.io/)
 - [🐔 Twitter](https://twitter.com/Woalis)
-- [🔺 Reddit](https://www.reddit.com/user/Woalis)
+- [👽 Reddit](https://www.reddit.com/user/Woalis)
 
 ## Cool Stuff
 - [Unsplash - Vintage 80s items wallpaper](https://unsplash.com/photos/p0j-mE6mGo4)
