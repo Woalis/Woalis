@@ -1,14 +1,9 @@
-<h1 align="left">Hai, I'm Woalis 👋</h1>
-<p align="left">He/Him/His</p>
+<h1 align="center">Hai, I'm <a href="https://woalis.com">Woalis</a> 👋</h1>
+<p align="center">He/Him/His</p>
 
 I have a soft spot for cats, cameras, a few games, and retro-design.
 
-## 🔗 Links
-- [🌲 Linktree](https://woalis.github.io/)
-- [🐔 Twitter](https://twitter.com/Woalis)
-- [👽 Reddit](https://www.reddit.com/user/Woalis)
-
-## Cool Stuff
+## 🏖️ Cool Stuff
 - [Unsplash - Vintage 80s items wallpaper](https://unsplash.com/photos/p0j-mE6mGo4)
 
 <!--
